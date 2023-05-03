@@ -12,3 +12,7 @@ Numpy
 Matplotlib
 
 Scikit-learn
+
+## Dataset Used
+
+The dataset used for this project is the California Housing Prices dataset on Kaggle, which is a modified version of the original dataset from the StatLib repository.
